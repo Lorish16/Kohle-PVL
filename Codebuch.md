@@ -1,6 +1,6 @@
 ## Codebuch										
 										
-EDGE - Attribute										
+# EDGE - Attribute										
 										
 id										
 (eindeutige Codierung des Knoten)										
@@ -29,7 +29,7 @@ Intensität der Beziehung; bzw. Einfluss
 2 = Stimmrecht / aktives Mandat										
 3 = aktives Mandat / Ministeramt										
 										
-NODE-Attribute										
+# NODE-Attribute										
 										
 id										
 Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall sind alle Namen abgekürzt mit drei oder vier Buchstaben zu sehen.										
