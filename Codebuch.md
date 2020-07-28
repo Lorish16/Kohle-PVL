@@ -31,24 +31,24 @@ Intensität der Beziehung; bzw. Einfluss
 										
 ## NODE-Attribute										
 										
-id										
+### id										
 Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall sind alle Namen abgekürzt mit drei oder vier Buchstaben zu sehen.		
 
-name										
+### name										
 Die Namen der Mitglieder der Kohlekommission.										
 										
-sex										
+### sex										
 Bitte geben Sie ihr Geschlecht an:										
 1 = weiblich										
 2 = männlich										
 3 = divers										
 										
-type										
+### type										
 Haben wir es mit einer Person oder einer Organisation zu tun?										
 0 = Person										
 1 = Organisation										
 										
-party										
+### party										
 Zu welcher politischen Partei gehört die Person?										
 1=CDU										
 2=CSU										
@@ -56,7 +56,7 @@ Zu welcher politischen Partei gehört die Person?
 4=Gruene										
 5=FDP										
 										
-age										
+### age										
 Gibt das Alter an:										
 1 = bis 39 Jahre										
 2 = 40 bis 49 Jahre										
@@ -64,7 +64,7 @@ Gibt das Alter an:
 4 = 60 und älter										
 										
 
-representation										
+### representation										
 bezieht sich auf die Funktion innerhalb der Kommission:										
 										
 1= Politik										
@@ -80,7 +80,7 @@ bezieht sich auf die Funktion innerhalb der Kommission:
 6= Wissenschaft										
 										
 
-Position										
+### Position										
 Bezieht sich auf den Einfluss in der Kommission										
 										
 1= kein Stimmrecht										
@@ -90,7 +90,7 @@ Bezieht sich auf den Einfluss in der Kommission
 3= Vorsitz										
 										
 
-State										
+### State										
 Bezieht sich auf das Herkunfts-Bundesland der Kommissionsmitglieder
 										
 										
