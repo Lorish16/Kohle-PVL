@@ -91,7 +91,8 @@ Bezieht sich auf den Einfluss in der Kommission
 										
 
 State										
-Bezieht sich auf das Herkunfts-Bundesland der Kommissionsmitglieder										
+Bezieht sich auf das Herkunfts-Bundesland der Kommissionsmitglieder
+										
 										
 1= Baden-Württemberg										
 										
